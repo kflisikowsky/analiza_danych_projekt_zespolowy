@@ -1,6 +1,6 @@
 # Analiza danych
 
-Zestawy danych dla przedmiotu ANALIZA DANYCH projekt zespołowy 2024/2025.
+Zestawy danych dla przedmiotu ANALIZA DANYCH projekt zespołowy 2025/2026.
 
 ## Jak korzystać z danych w projekcie?
 
